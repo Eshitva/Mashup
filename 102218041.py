@@ -132,7 +132,7 @@ def wavtomp3(resultFileName):
 if __name__ == "__main__":
     if len(sys.argv) != 5:
         print("Error: Incorrect number of parameters.")
-        print("Usage: python 102218044.py <SingerName> <NumberOfVideos> <AudioDuration> <resultFileName>")
+        print("Usage: python 102218041.py <SingerName> <NumberOfVideos> <AudioDuration> <resultFileName>")
     else:
         singer = sys.argv[1]
         n = int(sys.argv[2])
