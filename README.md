@@ -6,7 +6,7 @@
 
 ## Authors
 
-- [@GEshitva](https://www.github.com/Eshitva)
+- [@Eshitva](https://www.github.com/Eshitva)
 
 ## Processflow
 
